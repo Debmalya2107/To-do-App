@@ -14,9 +14,8 @@ A simple and responsive To-Do List application built using **React.js** as part 
 ## 🛠️ Tech Stack
 
 - **React.js**
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3**
-- Optional: Bootstrap / Tailwind (if used)
+- **JavaScript**
+- **HTML & CSS**
 
 ## 🧠 What I Learned
 
